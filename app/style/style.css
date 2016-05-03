@@ -1,0 +1,40 @@
+body {
+	margin: 5%;
+}
+
+h1 {
+	font-size: 500%;
+}
+
+header {
+	background-color: #e6e6e6;
+	padding: 80px 60px; 
+	margin: 5% 0;
+}
+
+.go {
+	margin: 0;
+	display: inline-block;
+}
+
+div {
+	width: 100%;
+}
+
+.info-header {
+	background-color: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	color: #0066ff;
+}
+
+.info-block {
+
+}
+
+citysearch {
+	padding-top: 10px;
+}
